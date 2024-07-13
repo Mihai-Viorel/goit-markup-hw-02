@@ -18,7 +18,36 @@ body {
   color: var(--slate);
 }
 
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.main_advantages-container h2 {
+  display: none;
+}
+
 /* --------------------- Text Configuration --------------------- */
+.logo-web {
+  font-family: 'Raleway';
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 3%;
+  color: var(--iris);
+}
+
+.logo-studio {
+  font-family: 'Raleway';
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 3%;
+  color: var(--navy-blue);
+}
 
 .header_nav_menu a {
   font-family: 'Roboto';
@@ -35,6 +64,7 @@ body {
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 2%;
+  color: var(--slate);
 }
 
 .hero_section_title {
@@ -44,6 +74,7 @@ body {
   line-height: 60px;
   letter-spacing: 2%;
   color: var(--white);
+  text-align: center;
 }
 
 .hero-section_button {
@@ -79,6 +110,7 @@ body {
   line-height: 40px;
   letter-spacing: 2%;
   color: var(--navy-blue);
+  text-align: center;
 }
 
 .main_our_team_list_element_description_title {
@@ -96,6 +128,16 @@ body {
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 2%;
+}
+
+.main_our_portfolio_header {
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 40px;
+  letter-spacing: 2%;
+  color: var(--navy-blue);
+  text-align: center;
 }
 
 .main_our_portfolio-container {
@@ -124,14 +166,73 @@ body {
   letter-spacing: 2%;
 }
 
+.footer-logo-web {
+  font-family: 'Raleway';
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 3%;
+  color: var(--iris);
+}
+
+.footer-logo-studio {
+  font-family: 'Raleway';
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 3%;
+  color: var(--cloud);
+}
+
+.footer-description {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
+  color: var(--cloud);
+}
+
+
+/* --------------------- Background Color Configuration --------------------- */
+
+.hero_section-container {
+  background-color: var(--navy-blue);
+}
+
+.hero-section_button {
+  background-color: var(--iris);
+}
+
+.main_our_team-container {
+  background-color: var(--cloud);
+}
+
+.footer-container {
+  background-color: var(--navy-blue);
+}
+
 /* --------------------- Links and Buttons Configuration --------------------- */
+.header_nav_menu a:hover,
+.header_nav_menu a:focus {
+  color: var(--ocean);
+  cursor: pointer;
+}
 
+.header_nav_menu a:active {
+  color: var(--ocean);
+}
 
+.header_contact_data a:hover,
+.header_contact_data a:focus {
+  color: var(--ocean);
+  cursor: pointer;
+}
 
-
-
-
-
+.hero-section_button:hover {
+  background-color: var(--ocean);
+  cursor: pointer;
+}
 
 
 
