@@ -14,8 +14,9 @@
 }
 
 body {
-  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: var(--slate);
+  background-color: var(--white);
 }
 
 a {
