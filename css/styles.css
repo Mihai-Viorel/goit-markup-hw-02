@@ -50,7 +50,7 @@ address {
   font-style: normal;
 }
 
-.header-nav-menu a {
+.nav-item a {
   font-family: 'Roboto';
   font-weight: 500;
   font-size: 16px;
@@ -59,7 +59,7 @@ address {
   color: var(--navy-blue);
 }
 
-.header-contact-data a {
+.contact-item a {
   font-family: 'Roboto';
   font-weight: 400;
   font-size: 16px;
@@ -218,18 +218,18 @@ address {
 }
 
 /* --------------------- Links and Buttons Configuration --------------------- */
-.header-nav-menu a:hover,
-.header-nav-menu a:focus {
+.nav-item a:hover,
+.nav-item a:focus {
   color: var(--ocean);
   cursor: pointer;
 }
 
-.header-nav-menu a:active {
+.nav-item a:active {
   color: var(--ocean);
 }
 
-.header-contact-data a:hover,
-.header-contact-data a:focus {
+.contact-item a:hover,
+.contact-item a:focus {
   color: var(--ocean);
   cursor: pointer;
 }
