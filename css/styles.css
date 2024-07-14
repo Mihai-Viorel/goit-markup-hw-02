@@ -51,7 +51,6 @@ address {
 }
 
 .nav-item a {
-  font-family: 'Roboto';
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -60,7 +59,6 @@ address {
 }
 
 .contact-item a {
-  font-family: 'Roboto';
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -69,7 +67,6 @@ address {
 }
 
 .hero_section_title {
-  /* font-family: 'Roboto'; */
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -89,7 +86,6 @@ address {
 }
 
 .main_advantages_list_element_title {
-  /* font-family: 'Roboto'; */
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -98,7 +94,6 @@ address {
 }
 
 .main_advantages_list_element_description {
-  /* font-family: 'Roboto'; */
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -106,7 +101,6 @@ address {
 }
 
 .main_our_team_header {
-  /* font-family: 'Roboto'; */
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -117,7 +111,6 @@ address {
 }
 
 .main_our_team_list_element_description_title {
-  /* font-family: 'Roboto'; */
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -126,7 +119,6 @@ address {
 }
 
 .main_our_team_list_element_description_role {
-  /* font-family: 'Roboto'; */
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -134,7 +126,6 @@ address {
 }
 
 .main_our_portfolio_header {
-  /* font-family: 'Roboto'; */
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -145,7 +136,6 @@ address {
 }
 
 .main_our_portfolio-container {
-  /* font-family: 'Roboto'; */
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -154,7 +144,6 @@ address {
 }
 
 .main_our_portfolio_list_element_description_title {
-  /* font-family: 'Roboto'; */
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -163,12 +152,10 @@ address {
 }
 
 .main_our_portfolio_list_element_description_role {
-  /* font-family: 'Roboto'; */
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--slate);
 }
 
 .footer-logo {
@@ -186,7 +173,6 @@ address {
 }
 
 .footer-description {
-  /* font-family: 'Roboto'; */
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
