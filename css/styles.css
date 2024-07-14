@@ -23,14 +23,6 @@ a {
   text-decoration: none;
 }
 
-ul {
-  list-style-type: none;
-}
-
-.main_advantages-container h2 {
-  display: none;
-}
-
 /* --------------------- Text Configuration --------------------- */
 .logo {
   font-family: 'Raleway', sans-serif;
